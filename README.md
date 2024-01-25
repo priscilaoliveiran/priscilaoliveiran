@@ -1,7 +1,7 @@
 # Opa, sou a Priscila Oliveira!
 - ✏️ Atualmente trabalho como Designer Gráfico
 - 🖥️ Estou aprendendo Front-End
-- 🤗 Pronouns: ela/dela
+- 🤗 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/priscilaoliveiran">
